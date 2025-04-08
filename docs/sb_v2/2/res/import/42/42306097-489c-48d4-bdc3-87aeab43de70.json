@@ -1,0 +1,118 @@
+[
+  {
+    "__type__": "cc.SceneAsset",
+    "_name": "SB",
+    "scene": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Scene",
+    "_name": "New Node",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_anchorPoint": {
+      "__type__": "cc.Vec2"
+    },
+    "autoReleaseAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Canvas",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Canvas",
+        "node": {
+          "__id__": 2
+        },
+        "_designResolution": {
+          "__type__": "cc.Size",
+          "width": 640,
+          "height": 1136
+        }
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 640,
+      "height": 1136
+    },
+    "_position": {
+      "__type__": "cc.Vec3",
+      "x": 320,
+      "y": 568
+    },
+    "_id": "37bkS7NrBLFJ2HhjrSSq1D"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Main Camera",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Camera",
+        "node": {
+          "__id__": 3
+        },
+        "_clearFlags": 7,
+        "_backgroundColor": {
+          "__type__": "cc.Color",
+          "r": 90,
+          "g": 88,
+          "b": 88
+        },
+        "_depth": -1
+      }
+    ],
+    "_position": {
+      "__type__": "cc.Vec3",
+      "z": 353.338364744051
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "DemoEntry",
+    "_objFlags": 512,
+    "_parent": {
+      "__id__": 2
+    },
+    "_level": 1,
+    "_components": [
+      {
+        "__type__": "cc.Widget",
+        "node": {
+          "__id__": 4
+        },
+        "_alignFlags": 45
+      },
+      {
+        "__type__": "04cdfVZ3i9F1akgpZUyTr01",
+        "node": {
+          "__id__": 4
+        }
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 640,
+      "height": 1136
+    }
+  }
+]
