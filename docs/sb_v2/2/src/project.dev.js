@@ -3047,4 +3047,3 @@ window.__require = function e(t, n, r) {
     "./MailItem": "MailItem"
   } ]
 }, {}, [ "BagDemo", "BasicsDemo", "ChatDemo", "CooldownDemo", "DemoEntry", "EmojiParser", "GuideDemo", "HitTestDemo", "JoystickDemo", "JoystickModule", "ListEffectDemo", "LoopListDemo", "MailItem", "MainMenu", "ModalWaitingDemo", "PullToRefreshDemo", "ScrollPaneDemo", "ScrollPaneHeader", "TestWin", "TransitionDemo", "TreeViewDemo", "VirtualListDemo", "FaryguiInput", "FaryguiListEx", "FaryguiUtil", "GListEx", "Runable", "SbCom", "SbLoader", "MaskEx" ]);
-//# sourceMappingURL=project.dev.js.map
