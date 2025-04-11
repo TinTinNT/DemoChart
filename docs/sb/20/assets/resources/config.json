@@ -1,0 +1,70 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "087c8bedd",
+        "0acd3eb79",
+        "10160eb0-2403-4e36-8c8c-88e3dccdda6a",
+        "4d32a448-42bc-49e6-9832-9631d7b00ff4",
+        "4d32a448-42bc-49e6-9832-9631d7b00ff4@6c48a",
+        "4d32a448-42bc-49e6-9832-9631d7b00ff4@f9941",
+        "fe5ce1d5-43dd-4d6c-9e04-566da971f20f",
+        "fe5ce1d5-43dd-4d6c-9e04-566da971f20f@6c48a",
+        "fe5ce1d5-43dd-4d6c-9e04-566da971f20f@f9941"
+    ],
+    "paths": {
+        "10160eb0-2403-4e36-8c8c-88e3dccdda6a": [
+            "Farygui/Sb",
+            "cc.BufferAsset"
+        ],
+        "fe5ce1d5-43dd-4d6c-9e04-566da971f20f": [
+            "Farygui/Sb_atlas0",
+            "cc.ImageAsset"
+        ],
+        "fe5ce1d5-43dd-4d6c-9e04-566da971f20f@6c48a": [
+            "Farygui/Sb_atlas0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "fe5ce1d5-43dd-4d6c-9e04-566da971f20f@f9941": [
+            "Farygui/Sb_atlas0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4d32a448-42bc-49e6-9832-9631d7b00ff4": [
+            "Farygui/Sb_atlas1",
+            "cc.ImageAsset"
+        ],
+        "4d32a448-42bc-49e6-9832-9631d7b00ff4@6c48a": [
+            "Farygui/Sb_atlas1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4d32a448-42bc-49e6-9832-9631d7b00ff4@f9941": [
+            "Farygui/Sb_atlas1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0acd3eb79": [
+            "4d32a448-42bc-49e6-9832-9631d7b00ff4",
+            "fe5ce1d5-43dd-4d6c-9e04-566da971f20f"
+        ],
+        "087c8bedd": [
+            "4d32a448-42bc-49e6-9832-9631d7b00ff4@6c48a",
+            "fe5ce1d5-43dd-4d6c-9e04-566da971f20f@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true
+}
